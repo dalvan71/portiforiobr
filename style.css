@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root{
+--cor-primaria:#06bffc;
+--cor-secundaria:#fbff12;
+--cor-destaque:#53ff0f;
+
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+    background-color: var(--cor-primaria);
+}
+
+
+h2,h3,h5{color:var(--cor-secundaria);
+    font-weight: 700;
+    font-weight: 700;
+    }
+
+
+footer a{color: var(--cor-secundaria);}
+   
+
+
+footer a:hover{color:  var(--cor-destaque );}
+
+
+
+
+
+
